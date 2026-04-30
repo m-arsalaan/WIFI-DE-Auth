@@ -1,4 +1,4 @@
-# WiFi Deauthentication Research Tool (C++)
+# WiFi Deauthentication Tool (C++)
 
 ## Overview
 This project demonstrates how WiFi deauthentication frames are constructed, transmitted, and managed using low-level packet injection in C++ with libpcap.
