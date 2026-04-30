@@ -1,0 +1,11 @@
+# Compiled binaries
+deauth
+*.out
+*.o
+
+# Reports
+*.txt
+
+# OS
+.DS_Store
+Thumbs.db
